@@ -742,8 +742,8 @@ margin on the iframe, cause it breaks stuff. */
 .cr-default-logo-nt {
     background: url(icons/default/default_logo_no_title_275x50.png) no-repeat;
     width: 275px;
-    height: 50px;
-    background-size: 275px 50px;
+    height: 65px;
+    background-size: 275px 65px;
     display: block;
 }
 
@@ -756,8 +756,8 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 .cr-header-logo {
-    width: 50px;
-    height: 50px;
+    width: 300px;
+    height: 95px;
     display: inline-block;
     background-size: cover;
     background-position: center center;
